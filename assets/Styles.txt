@@ -1,0 +1,52 @@
+//// Icons\\\\
+<script src="https://kit.fontawesome.com/667db2e3c0.js" crossorigin="anonymous"></script> 
+
+///FaceBook Icon\\\\
+<i class="fab fa-facebook-f"></i>
+
+///Twitter Icon\\\\
+<i class="fab fa-twitter"></i>
+
+///BasketBall Icon\\\\
+<i class="fas fa-basketball-ball"></i>
+
+///Google Icon\\\\
+<i class="fab fa-google"></i>
+
+------------------END of ICONS----------------------------------------------------------------------
+
+////Fonts\\\\\
+
+FlatForm:
+<link href="What link to put here if I have dowloaded the File" rel="stylesheet">
+.your-style {
+    font-family: 'Flatform';
+    font-weight: 300;
+    font-style: normal;
+}
+
+OpenSans: Light, Regular, Semi-Bold, Bold, Bold-italic:
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,700&display=swap" rel="stylesheet">
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+Satellite:
+<link href="What link to put here if I have dowloaded the File" rel="stylesheet">
+.your-style {
+    font-family: 'Satellite';
+    font-weight: normal;
+    font-style: normal;
+}
+
+Socialico:
+<link href="What link to put here if I have dowloaded the File" rel="stylesheet">
+.your-style {
+    font-family: 'Socialico';
+    font-weight: normal;
+    font-style: normal;
+}
+
+///Collors\\\\
+ffffff nav bar; background
+4d4d4d start Here button, text color;
+3b3b3b footer;

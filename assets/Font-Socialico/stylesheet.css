@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Socialico';
+    src: url('Socialico.woff2') format('woff2'),
+        url('Socialico.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

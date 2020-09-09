@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Flatform';
+    src: url('Flatform-Light.woff2') format('woff2'),
+        url('Flatform-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
